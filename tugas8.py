@@ -1,5 +1,5 @@
 import tkinter as tk
-
+import sqlite3
 # Fungsi untuk memprediksi prodi
 def hasil_prediksi():
     # Mendapatkan nilai dari input entries
